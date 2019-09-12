@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="2" virtualPath="/Views/Manage/VerifyPhoneNumber.cshtml" hash="2edb0bc" filehash="ffffde048e36871a" flags="110000" assembly="App_Web_eocjhvzr" type="ASP._Page_Views_Manage_VerifyPhoneNumber_cshtml">
+    <filedeps>
+        <filedep name="/Views/Manage/VerifyPhoneNumber.cshtml" />
+    </filedeps>
+</preserve>
